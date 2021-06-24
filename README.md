@@ -6,6 +6,8 @@ Céline AZEVEDO
 
 ## Utilisation du Makefile
 
+## A écrire dans le terminal
+
 ### make 
  --> Compilation des bouts de code pour créer un fichier exécutable.
 
